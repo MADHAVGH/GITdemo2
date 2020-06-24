@@ -20,6 +20,7 @@ public class AppTest
         super( testName );
         
         System.out.println("hello hello");
+        System.out.println("hello hellohfgdhhd");
     }
 
     /**
